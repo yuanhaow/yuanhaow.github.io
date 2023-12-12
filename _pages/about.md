@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yuanhao Wei"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
