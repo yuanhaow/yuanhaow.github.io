@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 I am currently a Postdoctoral Researcher at the MIT
-Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)) working with Professor [Julian Shun](https://people.csail.mit.edu/jshun/).
+Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)) working with [Julian Shun](https://people.csail.mit.edu/jshun/).
 
-I recieved my Ph.D. from Carnegie Mellon University, where I was advised by Professor [Guy Blelloch](http://www.cs.cmu.edu/~guyb/). 
+I recieved my Ph.D. from Carnegie Mellon University, where I was advised by [Guy Blelloch](http://www.cs.cmu.edu/~guyb/). Before that, I did my undergrad at the University of Toronto, where I got the opportunity to work with [Faith Ellen](https://www.cs.toronto.edu/~faith/) and [Toniann Pitassi](https://www.cs.columbia.edu/~toni/).
 
 <!-- My research interests are in designing theoretically and practically efficient algorithms for modern computer systems.
 My current research has focused on developing high-performance concurrent algorithms as well as libraries and abstractions that simplify concurrent programming. -->
@@ -37,7 +37,7 @@ International Conference on Programming Language Design and Implementation (PLDI
 4. **Lock-free Locks: Revisited**\
 *Naama Ben-David, Guy E. Blelloch, Yuanhao Wei. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503221.3508433) [[video]](https://www.youtube.com/watch?v=1bH0yy6Wo4w&ab_channel=PPoPP22)\
 Symposium on Principles and Practice of Parallel Programming (PPoPP’22) \
-<span style="color:green">Best Paper Award</span>
+<span style="color:green">**Best Paper Award**</span>
 5. **FliT: A Library for Simple and Efficient Persistent Algorithms**\
 Yuanhao Wei, Naama Ben-David, Michal Friedman, Guy E. Blelloch and Erez Petrank. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503221.3508436) [[video]](https://www.youtube.com/watch?v=qgBVOUdpx3E&ab_channel=PPoPP22)\
 Symposium on Principles and Practice of Parallel Programming (PPoPP’22)
