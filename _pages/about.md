@@ -11,7 +11,7 @@ redirect_from:
 I am currently a Postdoctoral Researcher at the MIT
 Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)) working with [Julian Shun](https://people.csail.mit.edu/jshun/).
 
-I recieved my Ph.D. from Carnegie Mellon University, where I was advised by [Guy Blelloch](http://www.cs.cmu.edu/~guyb/). Before that, I did my undergrad at the University of Toronto, where I was mentored by [Faith Ellen](https://www.cs.toronto.edu/~faith/) and [Toniann Pitassi](https://www.cs.columbia.edu/~toni/).
+I recieved my Ph.D. from Carnegie Mellon University, where I was advised by [Guy Blelloch](http://www.cs.cmu.edu/~guyb/). Before that, I did my undergraduate studies at the University of Toronto, where I was mentored by [Faith Ellen](https://www.cs.toronto.edu/~faith/) and [Toniann Pitassi](https://www.cs.columbia.edu/~toni/).
 
 <!-- My research interests are in designing theoretically and practically efficient algorithms for modern computer systems.
 My current research has focused on developing high-performance concurrent algorithms as well as libraries and abstractions that simplify concurrent programming. -->
