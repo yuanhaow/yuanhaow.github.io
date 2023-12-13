@@ -29,7 +29,7 @@ My current research has focused on designing general, easy-to-use, and efficient
 *Guy E. Blelloch, Yuanhao Wei.\
 Symposium on Principles and Practice of Parallel Programming (PPoPP’24)
 2. **Practically and Theoretically Efficient Garbage Collection for Multiversioning**\
-Yuanhao Wei, Guy E. Blelloch, Panagiota Fatourou, Eric Ruppert. [paper](https://dl.acm.org/doi/abs/10.1145/3572848.3577508)\
+Yuanhao Wei, Guy E. Blelloch, Panagiota Fatourou, Eric Ruppert. [[paper]](https://dl.acm.org/doi/abs/10.1145/3572848.3577508)\
 Symposium on Principles and Practice of Parallel Programming (PPoPP’23)
 3. **Turning Manual Concurrent Memory Reclamation into Automatic Reference Counting**\
 *Daniel Anderson, Guy E. Blelloch and Yuanhao Wei. [paper](https://dl.acm.org/doi/abs/10.1145/3519939.3523730)\
