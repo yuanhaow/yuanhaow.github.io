@@ -36,7 +36,8 @@ Symposium on Principles and Practice of Parallel Programming (PPoPP’23)
 International Conference on Programming Language Design and Implementation (PLDI’22)
 4. **Lock-free Locks: Revisited**\
 *Naama Ben-David, Guy E. Blelloch, Yuanhao Wei. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503221.3508433) [[video]](https://www.youtube.com/watch?v=1bH0yy6Wo4w&ab_channel=PPoPP22)\
-Symposium on Principles and Practice of Parallel Programming (PPoPP’22, Best Paper Award)
+Symposium on Principles and Practice of Parallel Programming (PPoPP’22) \
+<span style="color:green">Best Paper Award</span>
 5. **FliT: A Library for Simple and Efficient Persistent Algorithms**\
 Yuanhao Wei, Naama Ben-David, Michal Friedman, Guy E. Blelloch and Erez Petrank. [[paper]](https://dl.acm.org/doi/abs/10.1145/3503221.3508436) [[video]](https://www.youtube.com/watch?v=qgBVOUdpx3E&ab_channel=PPoPP22)\
 Symposium on Principles and Practice of Parallel Programming (PPoPP’22)
