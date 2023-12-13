@@ -23,7 +23,7 @@ My research has focused on designing general, easy-to-use, and efficient techniq
 <!-- I am broadly interested in developing theoretically and practically efficient algorithms for modern computer systems.
 My current research has focused on designing general, easy-to-use, and efficient techniques for concurrent programming. -->
 
-## Publications
+### Publications
 (*alphabetical order)
 
 1. **VERLIB: Concurrent Versioned Pointers**\
@@ -69,13 +69,13 @@ Theoretical Computer Science Volumes 826–827 (TCS’20), pp 40-50.
 *Naama Ben-David, Guy E. Blelloch, Michal Friedman and Yuanhao Wei [Paper] [Full Version]\
 31st ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’19), pp 253-264.
 
-## PhD Thesis
+### PhD Thesis
 
-**Provably Efficient and Scalable Shared-Memory Graph Processing** [pdf]\
+ - **Provably Efficient and Scalable Shared-Memory Graph Processing** [pdf]\
 Yuanhao Wei\
 Carnegie Mellon University, 2023
 
-## Short Papers and Tutorials
+### Short Papers and Tutorials
 
 1. **Brief Announcement: Concurrent Fixed-Size Allocation and Free in Constant Time** \
 *Guy E. Blelloch and Yuanhao Wei. [Paper] [Full Version] \
