@@ -70,7 +70,7 @@ Theoretical Computer Science Volumes 826–827 (TCS’20), pp 40-50.
 
 ### PhD Thesis
 
- - **Provably Efficient and Scalable Shared-Memory Graph Processing** [[pdf]](https://kilthub.cmu.edu/articles/thesis/General_Techniques_for_Efficient_Concurrent_Data_Structures/23739501)\
+ - **General Techniques for Efficient Concurrent Data Structures** [[pdf]](https://kilthub.cmu.edu/articles/thesis/General_Techniques_for_Efficient_Concurrent_Data_Structures/23739501)\
 Yuanhao Wei\
 Carnegie Mellon University, 2023
 
