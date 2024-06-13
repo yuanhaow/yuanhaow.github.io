@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Postdoctoral Researcher at the MIT
-Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)) working with [Julian Shun](https://people.csail.mit.edu/jshun/).
+Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)) working with [Julian Shun](https://people.csail.mit.edu/jshun/). I will be joining the UBC Department of Computer Science as an assistant professor in January 2025.
 
 I recieved my Ph.D. from Carnegie Mellon University, where I was advised by [Guy Blelloch](http://www.cs.cmu.edu/~guyb/). Before that, I did my undergraduate studies at the University of Toronto, where I was mentored by [Faith Ellen](https://www.cs.toronto.edu/~faith/) and [Toniann Pitassi](https://www.cs.columbia.edu/~toni/).
 
