@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yuanhao Wei"
 title_separator          : "-"
 name                     : &name "Yuanhao Wei"
-description              : &description # "Postdoctoral Researcher at MIT CSAIL"
+description              : &description "Academic Website"
 url                      : https://yuanhaow.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuanhaow.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanhao Wei"
   avatar           : "yuanhao-profile.png"
-  bio              : # "Postdoctoral Researcher at MIT CSAIL"
+  bio              : "Assistant Professor @ UBC"
   location         : "ICCS 321"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=_vDg69AAAAAJ&hl=en"

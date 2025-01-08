@@ -22,6 +22,13 @@ My research has focused on designing general, easy-to-use, and efficient techniq
 <!-- I am broadly interested in developing theoretically and practically efficient algorithms for modern computer systems.
 My current research has focused on designing general, easy-to-use, and efficient techniques for concurrent programming. -->
 
+### PhD Thesis
+
+ - **General Techniques for Efficient Concurrent Data Structures** [[pdf]](https://kilthub.cmu.edu/articles/thesis/General_Techniques_for_Efficient_Concurrent_Data_Structures/23739501)\
+Yuanhao Wei\
+Carnegie Mellon University, 2023
+<span style="color:green">**Principles of Distributed Computing Doctoral Dissertation Award**</span>
+
 ### Publications
 
 1. **Aggregating Funnels for Faster Fetch&Add and Queues**\
@@ -70,12 +77,6 @@ Naama Ben-David, Guy E. Blelloch, Yihan Sun and Yuanhao Wei. [[Paper]](https://d
 14. **Delay-Free Concurrency on Faulty Persistent Memory**\
 Naama Ben-David, Guy E. Blelloch, Michal Friedman and Yuanhao Wei [[Paper]](https://dl.acm.org/doi/10.1145/3323165.3323187) [[Full Version]](https://arxiv.org/abs/1806.04780)\
 31st ACM Symposium on Parallelism in Algorithms and Architectures (SPAA’19), pp 253-264.
-
-### PhD Thesis
-
- - **General Techniques for Efficient Concurrent Data Structures** [[pdf]](https://kilthub.cmu.edu/articles/thesis/General_Techniques_for_Efficient_Concurrent_Data_Structures/23739501)\
-Yuanhao Wei\
-Carnegie Mellon University, 2023
 
 ### Short Papers and Tutorials
 
