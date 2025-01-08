@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanhao Wei"
   avatar           : "yuanhao-profile.png"
-  bio              : "Assistant Professor"
+  bio              : "" # "Assistant Professor @ UBC"
   location         : "ICCS 321"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=_vDg69AAAAAJ&hl=en"
