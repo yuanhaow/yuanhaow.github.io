@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am an Assistant Professor in the Department of Computer Science at the [University of British Columbia](https://www.ubc.ca/). Previously, I was a Postdoctoral Researcher at the MIT
-Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)) working with [Julian Shun](https://people.csail.mit.edu/jshun/).
+Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)) working with [Julian Shun](https://people.csail.mit.edu/jshun/). My research interests are in developing theoretically and practically efficient algorithms for multicore machines.
 
 I recieved my Ph.D. from Carnegie Mellon University, where I was advised by [Guy Blelloch](http://www.cs.cmu.edu/~guyb/). Before that, I did my undergraduate studies at the University of Toronto, where I was mentored by [Faith Ellen](https://www.cs.toronto.edu/~faith/) and [Toniann Pitassi](https://www.cs.columbia.edu/~toni/).
 
@@ -18,7 +18,6 @@ My research has focused on designing general, easy-to-use, and efficient techniq
 
 <!-- My research interests are in developing high-performance algorithms for modern computer systems. -->
 
-My research interests are in developing theoretically and practically efficient algorithms for multicore machines.
 <span style="color:blue">**I am currently looking for self-motivated USRA/MSc/PhD students interested in working on parallel and concurrent algorithms, with a mix of theory and practice.**</span>
 
 <!-- v1: I am broadly interested in developing theoretically and practically efficient algorithms for modern computer systems.
