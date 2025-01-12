@@ -23,6 +23,14 @@ My research has focused on designing general, easy-to-use, and efficient techniq
 <!-- v1: I am broadly interested in developing theoretically and practically efficient algorithms for modern computer systems.
 My current research has focused on designing general, easy-to-use, and efficient techniques for concurrent programming. -->
 
+### Teaching
+
+ - CPSC 320 2025W2: Intermediate Algorithm Design and Analysis
+
+### Advising
+Younghun Roh: MIT UROP (Undergraduate Research Opportunity Program)\
+   - project: Scalable atomic primitives - Fetch-And-Add [[arXiv]](https://arxiv.org/abs/2411.14420)
+
 ### PhD Thesis
 
  - **General Techniques for Efficient Concurrent Data Structures** [[pdf]](https://kilthub.cmu.edu/articles/thesis/General_Techniques_for_Efficient_Concurrent_Data_Structures/23739501)\
