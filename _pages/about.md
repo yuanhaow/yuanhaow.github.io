@@ -16,8 +16,9 @@ I recieved my Ph.D. from Carnegie Mellon University, where I was advised by [Guy
 <!-- v2: My research interests are in developing high-performance concurrent algorithms for modern computer systems.
 My research has focused on designing general, easy-to-use, and efficient techniques for concurrent programming. -->
 
-My research interests are in developing high-performance algorithms for modern computer systems.
+<!-- My research interests are in developing high-performance algorithms for modern computer systems. -->
 
+My research interests are in developing theoretically and practically efficient algorithms for multicore machines.
 <span style="color:blue">**I am currently looking for self-motivated USRA/MSc/PhD students interested in working on parallel and concurrent algorithms, with a mix of theory and practice.**</span>
 
 <!-- v1: I am broadly interested in developing theoretically and practically efficient algorithms for modern computer systems.
